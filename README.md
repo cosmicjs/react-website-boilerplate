@@ -1,6 +1,6 @@
 # React Website Boilerplate
 ![react-website-boilerplate](https://cosmic-s3.imgix.net/ef914540-3106-11e8-8a87-1d4e79eefafa-nextjs-cosmicjs.jpg)
-A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search.  Contributions welcome!
+A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search. Built using React and Next.js. Contributions welcome!
 
 ## Demo
 [Click here to view the demo](https://cosmicjs.com/apps/react-website-boilerplate)
