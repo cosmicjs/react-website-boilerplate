@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cosmicjs/nextjs-website-boilerplate.git"
+    "url": "git+https://github.com/cosmicjs/react-website-boilerplate.git"
   },
   "author": "BitBytes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cosmicjs/nextjs-website-boilerplate/issues"
+    "url": "https://github.com/cosmicjs/react-website-boilerplate/issues"
   },
-  "homepage": "https://github.com/cosmicjs/nextjs-website-boilerplate#readme",
+  "homepage": "https://github.com/cosmicjs/react-website-boilerplate#readme",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",

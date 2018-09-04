@@ -1,11 +1,11 @@
-# Next.js Website Boilerplate
-![nextjs-website-boilerplate](https://cosmic-s3.imgix.net/ef914540-3106-11e8-8a87-1d4e79eefafa-nextjs-cosmicjs.jpg)
+# React Website Boilerplate
+![react-website-boilerplate](https://cosmic-s3.imgix.net/ef914540-3106-11e8-8a87-1d4e79eefafa-nextjs-cosmicjs.jpg)
 A website template that satisfies some common website requirements including dynamic pages, blog articles, author management, SEO ability, contact form and website search.  Contributions welcome!
 
 ## Demo
-[Click here to view the demo](https://cosmicjs.com/apps/nextjs-website-boilerplate)
+[Click here to view the demo](https://cosmicjs.com/apps/react-website-boilerplate)
 
-> [Read how this app was built](https://cosmicjs.com/articles/nextjs-website-boilerplate-jeoea8au)
+> [Read how this app was built](https://cosmicjs.com/articles/react-website-boilerplate-jeoea8au)
 
 ## Features
 1. Fully responsive down to mobile w/ [Bootstrap](http://getbootstrap.com) frontend<br />
@@ -20,7 +20,7 @@ Sign up for [Cosmic JS](https://cosmicjs.com) to install the demo content and de
 
 ```bash
 git clone https://github.com/cosmicjs/nodejs-website-boilerplate
-cd nextjs-website-boilerplate
+cd react-website-boilerplate
 npm install
 
 # Run in development and serve at localhost:3000
