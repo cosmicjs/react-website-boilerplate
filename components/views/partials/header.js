@@ -15,7 +15,7 @@ class Header extends React.Component { // eslint-disable-line react/prefer-state
     return (
         <div>
             <div className="container text-center">
-                <a><img src={header.metadata.logo.url} alt=""  height="60px;" /></a>
+                <a href="/"><img src={header.metadata.logo.url} alt=""  height="60px;" /></a>
             </div>
             <nav className="navbar navbar-default" >
                 <div className="container-fluid" style={{ marginLeft: '25%' }}>
