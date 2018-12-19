@@ -56,4 +56,4 @@ If you are using the Web Hosting option that's included with every Bucket:
 
 Key | Value
 --- | ---
-| SENDGRID_FUNCTION_ENDPOINT     | https://1234asdf.execute-api.us-east.amazonaws.com/dev/send-email
+| SENDGRID_FUNCTION_ENDPOINT     | https://your-lambda-endpoint.amazonaws.com/dev/send-email
