@@ -32,7 +32,7 @@ npm run build
 # Run in production and serve at localhost:3000
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
-Import the `bucket.json` file into your Cosmic JS bucket.  To do this go to Your Bucket > Settings > Import / Export Data.
+Import the `bucket.json` file into your Cosmic JS Bucket.  To do this go to Your Bucket > Settings > Import / Export Data.
 
 <img src="https://cosmic-s3.imgix.net/44f0d590-0303-11e9-b4bb-b3fa3d766bf7-sendgrid.gif?w=1300" width="700" />
 
